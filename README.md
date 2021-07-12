@@ -1,2 +1,2 @@
 # NLP-Emotion-Detection
-Analyzing the connection between the voice produced during speech and the feeling of a particular emotion.
+Our project is about speech Processing. During the project we investigated the connection between the vocal characteristics of the voice and the expression of emotion and we created a model that succeeded to determine  which emotion is felt in a sound sample.
